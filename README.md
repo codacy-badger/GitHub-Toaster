@@ -75,4 +75,4 @@ There are no contributors yet
 
 
 ## Contribution
-You can add any updates & fixes via  ```pull requests ```. Your nickname will be added into <a href="#thanklist"><b>thanklist</b></a>
+You can add any updates & fixes via  <b>pull requests</b>. Your nickname will be added into <a href="#thanklist"><b>thanklist</b></a>
