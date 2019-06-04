@@ -1,5 +1,7 @@
 # GitHub Toaster
+<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 <img src="https://app.snyk.io/test/github/jieggii/GitHub-Toaster/badge.svg?targetFile=requirements.txt">
+
 <img src="https://imgur.com/3ekMkWy.jpg">
 
 ## About
