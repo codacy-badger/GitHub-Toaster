@@ -49,6 +49,7 @@ pip install -r requirements.txt
 ```python notifier.pyw```
 
 In both cases you will see this message:
+<br>
 <img src="https://imgur.com/SouzUJf.jpg">
 
 ### Adding to startup
