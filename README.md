@@ -1,6 +1,7 @@
 # GitHub Toaster
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jieggii/GitHub-Toaster/issues)
 [![Known Vulnerabilities](https://snyk.io/test/github/jieggii/GitHub-Toaster/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/jieggii/GitHub-Toaster?targetFile=requirements.txt)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c318cccd2034f47bb88579f921bf5b2)](https://www.codacy.com/app/jieggii/GitHub-Toaster?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jieggii/GitHub-Toaster&amp;utm_campaign=Badge_Grade)
 
 <img src="https://imgur.com/3ekMkWy.jpg">
 
