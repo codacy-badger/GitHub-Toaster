@@ -1,5 +1,5 @@
 # GitHub Toaster
-<img src="https://snyk.io/test/github/jieggii/GitHub-Toaster?targetFile=requirements.txt">
+<img src="https://app.snyk.io/test/github/jieggii/GitHub-Toaster/badge.svg?targetFile=requirements.txt">
 <img src="https://imgur.com/3ekMkWy.jpg">
 
 ## About
