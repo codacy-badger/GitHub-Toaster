@@ -64,7 +64,7 @@ When you set everything up and checked perfomance, you are ready to add the prog
 8. Done! Now program will be started with the system
 
 ## License
-Repository placed under <b>MIT License</b>
+Project is placed under MIT License
 
 ## Thanklist
 There are no contributors yet
