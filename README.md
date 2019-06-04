@@ -1,4 +1,5 @@
 # GitHub Toaster
+<a href="https://snyk.io/test/github/jieggii/GitHub-Toaster?targetFile=requirements.txt"><img src="https://snyk.io/test/github/jieggii/GitHub-Toaster/badge.svg?targetFile=requirements.txt" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/jieggii/GitHub-Toaster?targetFile=requirements.txt" style="max-width:100%;"></a>
 Get toast notifications from GitHub directly on your desktop
 <img src="https://imgur.com/3ekMkWy.jpg">
 
