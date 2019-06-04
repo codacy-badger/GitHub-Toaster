@@ -1,5 +1,5 @@
 # GitHub Toaster
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jieggii/GitHub-Toaster/issues)
 [![Known Vulnerabilities](https://snyk.io/test/github/jieggii/GitHub-Toaster/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/jieggii/GitHub-Toaster?targetFile=requirements.txt)
 
 <img src="https://imgur.com/3ekMkWy.jpg">
